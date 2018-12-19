@@ -1,5 +1,3 @@
-# Lyoneer™
-
 [![Lyoneer logo](https://github.com/lyoneer/lyoneer/blob/master/assets/header-small.png?raw=true)](https:/lyoneer.com/about/)
 
 # Open source
