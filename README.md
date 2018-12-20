@@ -1,4 +1,4 @@
-[![Lyoneer logo](https://github.com/lyoneer/lyoneer/blob/master/assets/header.png?raw=true)](https:/lyoneer.com/about/)
+[![Lyoneer logo](https://github.com/lyoneer/lyoneer/blob/master/assets/header-brand.png?raw=true)](https:/lyoneer.com/about/)
 
 # Open source
 
